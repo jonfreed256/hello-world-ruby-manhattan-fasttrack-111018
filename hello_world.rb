@@ -6,8 +6,6 @@ counter = 0
   counter += 1
   if counter % 3 == 0
     puts "fizz"
+    puts counter
   end
-else puts n
-
-end
 end
